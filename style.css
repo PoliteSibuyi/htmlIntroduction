@@ -1,0 +1,38 @@
+
+p {
+
+    background-color: whitesmoke;
+    color: black;
+
+    padding: 10px;
+}
+
+body {
+
+    background: url(./Assets/images/cover.jpg);
+
+}
+ /* SELECTOR SELECING UL */
+ul {
+
+list-style: square inside url('./Assets/icons/user_icon.jpg');
+
+}
+
+#personListID {
+
+
+}
+
+
+#personListID li {
+
+background-color: whitesmoke;
+padding: 8px;
+margin: 6px;
+}
+
+.mainlist{
+
+    background-color: purple;
+}
